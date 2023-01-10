@@ -9,7 +9,13 @@
    - Python input function
    - Python variables and variable naming
 
+## Day 2 Project - Tip Calculator
 
+### Key Learning:
+- Python primitive data types
+- Type error, type checkin and type conversion
+- Mathematical operations in Python
+- Number manipulation and F strings
 
 
 
