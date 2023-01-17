@@ -26,6 +26,13 @@
 - Logical operators (Exercise: Love calculator)
 - Day 3 project: Treasure Island
 
+## Day 4 Project - Randomisation and Python List
+
+### Key Learning:
+- Random module
+- Understanding the offset and appending items to lists
+- List and Index error
+- Day 4 project: Rock Paper Scissors
 
 
 
