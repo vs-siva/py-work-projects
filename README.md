@@ -34,5 +34,14 @@
 - List and Index error
 - Day 4 project: Rock Paper Scissors
 
+## Day 5 Project - Python Loop
+
+### Key Learning:
+- Using the for loop with Python list
+- Interactive exercise - Average Height
+- Interactive exercise - High Score
+- For loops and the range() function
+- Interactive exercise - Fizz Buzz
+- Day 5 project: Password Generator 
 
 
