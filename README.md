@@ -44,4 +44,14 @@
 - Interactive exercise - Fizz Buzz
 - Day 5 project: Password Generator 
 
+## Day 6 Project - Functions, Code Blocks and While Loops
+
+### Key Learning:
+- Defining and calling Python Functions
+- Interactive exercise - The Hurdles Loop Challenge
+- Indentation in Python
+- Identation Quiz
+- While Loops - Hurdles Challenge using While Loops
+- Day 6 project: Escaping the Maze
+
 
