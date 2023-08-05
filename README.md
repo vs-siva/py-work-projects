@@ -54,4 +54,15 @@
 - While Loops - Hurdles Challenge using While Loops
 - Day 6 project: Escaping the Maze
 
+## Day 7 Project - Hangman Game
+
+### Key Learning:
+- How to break a complex problem down into a flow chart
+- Challenge - Picking a random words and checking answers
+- Challenge - Replacing blanks with guesses
+- Challenge - Checking if the player has won
+- Challenge - Keeping track of the player's lives
+- Challenge - Improving the user experience 
+- Day 7 project: Hangman Game
+
 
