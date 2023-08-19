@@ -65,4 +65,15 @@
 - Challenge - Improving the user experience 
 - Day 7 project: Hangman Game
 
+## Day 8 Project - Caesar Cipher
+
+### Key Learning:
+- Functions with Inputs
+- Positional Vs Keyword Arguments
+- Challenge - Prime Number checker
+- Day8 Project - Caesar Cipher Encryption
+- Day8 Project - Caesar Cipher Decryption
+- Day8 Project - Caesar Cipher Improvements and reorganising our code
+
+
 
